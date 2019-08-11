@@ -1,4 +1,4 @@
 # System updates app
 ### Based on Lineage/CyanogenMod ota app
 
-[Official devices] (https://github.com/nitrogen-project/OTA)
+[Unofficial devices] (https://github.com/bagaskara815/OTA)
